@@ -1,5 +1,5 @@
 #Location: ~/.config/starship.toml
-#Location: ~/.config/starship.toml
+
 "$schema" = 'https://starship.rs/config-schema.json'
 
 format = """
